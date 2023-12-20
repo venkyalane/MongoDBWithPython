@@ -1,0 +1,7 @@
+create database also transsfer perticular database
+>>use database_name;
+
+show all databases
+>> show databases;
+
+http://localhost:27017/
