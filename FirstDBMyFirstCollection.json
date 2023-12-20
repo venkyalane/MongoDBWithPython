@@ -1,0 +1,95 @@
+[{
+  "_id": {
+    "$oid": "65834e840a42294b7aab6c6e"
+  },
+  "name": "Mohan",
+  "location": "Nagar",
+  "marks": 65
+},
+{
+  "_id": {
+    "$oid": "65834e850a42294b7aab6c6f"
+  },
+  "name": "Venky",
+  "location": "Nanded",
+  "marks": 45
+},
+{
+  "_id": {
+    "$oid": "65834e850a42294b7aab6c70"
+  },
+  "name": "Mohan",
+  "location": "Pune",
+  "marks": 50
+},
+{
+  "_id": {
+    "$oid": "65834e850a42294b7aab6c71"
+  },
+  "name": "Dinesh",
+  "location": "Nanded",
+  "marks": 55
+},
+{
+  "_id": {
+    "$oid": "65834e850a42294b7aab6c72"
+  },
+  "name": "Prasad",
+  "location": "Latur",
+  "marks": 60
+},
+{
+  "_id": {
+    "$oid": "65834e850a42294b7aab6c73"
+  },
+  "name": "Savita",
+  "location": "Mumbai",
+  "marks": 75
+},
+{
+  "_id": {
+    "$oid": "65834e850a42294b7aab6c74"
+  },
+  "name": "Amit",
+  "location": "Delhi",
+  "marks": 80
+},
+{
+  "_id": {
+    "$oid": "65834e850a42294b7aab6c75"
+  },
+  "name": "Sumit",
+  "location": "Hydrabad",
+  "marks": 90
+},
+{
+  "_id": {
+    "$oid": "65834e850a42294b7aab6c76"
+  },
+  "name": "Pawan",
+  "location": "Surat",
+  "marks": 95
+},
+{
+  "_id": {
+    "$oid": "65834e850a42294b7aab6c77"
+  },
+  "name": "Aman",
+  "location": "Latur",
+  "marks": 85
+},
+{
+  "_id": {
+    "$oid": "65834e850a42294b7aab6c78"
+  },
+  "name": "Test",
+  "location": "Test",
+  "marks": 100
+},
+{
+  "_id": {
+    "$oid": "6583505b0a42294b7aab6c79"
+  },
+  "name": "Om",
+  "location": "Nanded"
+}]
